@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"minigames menu title"
+	{
+		"en"		"Minigames"
+	}
+
+	"minigame menu title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Minigame: {1}"
+	}
+}
